@@ -2,7 +2,7 @@
 def Input_data ():
     duration = 86400
     list1 = [15]
-    recipients = [['Sabagh.Vahid@Golrang.com']]
+    recipients = [['eamilname@email.com']]
 
     Entity_dict_ItemPack = {'BarCode': "تغییر وضعیت بارکد کالا",
                             'KasbID_Name': "تغییر وضعیت گروه کسب و کار کالا",
